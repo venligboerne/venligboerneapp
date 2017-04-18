@@ -26,6 +26,7 @@ export default class venligboerneapp extends Component {
           Press Cmd+R to reload,{'\n'}
           Cmd+D or shake for dev menu
         </Text>
+        <Text>This is a custom edit to show that we pulled successfully</Text>
       </View>
     );
   }
